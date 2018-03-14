@@ -1,0 +1,3 @@
+Hour 1 and distance traveled is 0.5 miles.
+Hour 2 and distance traveled is 1.0 miles.
+Hour 3 and distance traveled is 1.5 miles.
